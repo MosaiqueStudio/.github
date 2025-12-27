@@ -1,4 +1,4 @@
-# Mosaïk Studio
+# Mosaïque Studio
 
 Building the web we want to see 🎨
 
@@ -15,7 +15,5 @@ We create professional website templates that don't compromise on ethics, access
 
 Because a professional online presence shouldn't mean selling your soul—or your visitors' data.
 
-https://mosaikstudio.dev
-
-<img width="2544" height="106" alt="Group 224" src="https://github.com/user-attachments/assets/ea9f3ad3-3e46-4bc2-80ac-3728bfe1d54c" />
+https://mosaiquestudio.dev
 
